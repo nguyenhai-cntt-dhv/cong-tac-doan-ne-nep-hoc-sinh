@@ -32,3 +32,5 @@ giao thông và kênh phản hồi, phục vụ công tác Bí thư Đoàn Thanh
 ## Tác giả
 **Nguyễn Minh Hải** – Lớp K66-CNTT – MSSV: 254748020190034
 Giảng viên hướng dẫn: NGUYỄN THÚY HÒA – Khoa Kỹ thuật Công nghệ, Trường Đại học Vinh
+
+![SV NGUYỄN MINH HẢI](1780026758662_2012761097548581436_5040259637048084512_a65de575675daba9b7d2d789930a22a4.jpg)
