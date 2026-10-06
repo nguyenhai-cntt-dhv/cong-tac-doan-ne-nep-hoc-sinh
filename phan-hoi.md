@@ -20,6 +20,6 @@ Tiếp nhận ý kiến góp ý về nề nếp, môi trường học đường 
   marginwidth="0">
   Đang tải biểu mẫu…
 </iframe>
-
+https://docs.google.com/forms/d/e/1FAIpQLSdLn0uKRFNdiegI3Sctbj34S003Ib7Wghy6Gp4KNBxfD-Rwxw/viewform?usp=publish-editor
 > **Lưu ý:** Chỉ sử dụng biểu mẫu cho mục đích góp ý/hỗ trợ;
 không nhập thông tin nhạy cảm.
