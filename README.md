@@ -1,4 +1,4 @@
-![TRƯỜNG ĐẠI HỌC VINH](logo-dai-hoc-vinh-inkythuatso-01)
+TRƯỜNG ĐẠI HỌC VINH
 
 # Cổng thông tin điện tử – Công tác Đoàn & Quản lý nề nếp học sinh
 
