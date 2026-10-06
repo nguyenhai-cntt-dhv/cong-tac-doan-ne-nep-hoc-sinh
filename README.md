@@ -34,3 +34,4 @@ giao thông và kênh phản hồi, phục vụ công tác Bí thư Đoàn Thanh
 Giảng viên hướng dẫn: NGUYỄN THÚY HÒA – Khoa Kỹ thuật Công nghệ, Trường Đại học Vinh
 
 ![SV NGUYỄN MINH HẢI](1780026758662_2012761097548581436_5040259637048084512_a65de575675daba9b7d2d789930a22a4.jpg)
+![Bí thư đoàn thanh niên - Trường trung cấp KT-KT Miền Tây](1790928439723_1186778431089006506_1186778431089006506_f630795c48754a6d5d185688862153c1.jpg)
