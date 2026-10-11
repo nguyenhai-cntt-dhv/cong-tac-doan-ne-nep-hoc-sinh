@@ -4,7 +4,7 @@ TRƯỜNG ĐẠI HỌC VINH
 
 ## Giới thiệu
 Đây là sản phẩm **Đồ án học phần Nhập môn Công nghệ thông tin**
-trường Đại học Vinh, do sinh viên **NGUYỄN MINH HẢI – lớp K66-CNTT - MSSV: 254748020190034** thực hiện.
+do sinh viên **NGUYỄN MINH HẢI – lớp K66-CNTT - MSSV: 254748020190034** trường Đại học Vinh thực hiện.
 Website tập hợp quy trình giao ban, quy trình kiểm tra nề nếp, nội quy an toàn
 giao thông và kênh phản hồi, phục vụ công tác Bí thư Đoàn Thanh niên.
 
