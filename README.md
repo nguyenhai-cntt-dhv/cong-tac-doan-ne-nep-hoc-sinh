@@ -6,7 +6,7 @@ TRƯỜNG ĐẠI HỌC VINH
 Đây là sản phẩm **Đồ án học phần Nhập môn Công nghệ thông tin**
 do sinh viên **NGUYỄN MINH HẢI – lớp K66-CNTT - MSSV: 254748020190034** trường Đại học Vinh thực hiện.
 Website tập hợp quy trình giao ban, quy trình kiểm tra nề nếp, nội quy an toàn
-giao thông và kênh phản hồi, phục vụ công tác Bí thư Đoàn Thanh niên.
+giao thông và kênh phản hồi, phục vụ công tác Đoàn Thanh niên.
 
 > Mục tiêu: Giúp cán bộ Đoàn, giáo viên và học sinh tra cứu quy trình, nội quy
 > một cách nhanh chóng, thống nhất; tiếp nhận ý kiến phản hồi trực tuyến.
